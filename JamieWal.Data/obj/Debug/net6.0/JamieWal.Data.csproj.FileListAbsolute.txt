@@ -1,0 +1,12 @@
+C:\Users\Tinka\Documents\Jamie-Walkth\JamieWal.Data\bin\Debug\net6.0\JamieWal.Data.deps.json
+C:\Users\Tinka\Documents\Jamie-Walkth\JamieWal.Data\bin\Debug\net6.0\JamieWal.Data.dll
+C:\Users\Tinka\Documents\Jamie-Walkth\JamieWal.Data\bin\Debug\net6.0\ref\JamieWal.Data.dll
+C:\Users\Tinka\Documents\Jamie-Walkth\JamieWal.Data\bin\Debug\net6.0\JamieWal.Data.pdb
+C:\Users\Tinka\Documents\Jamie-Walkth\JamieWal.Data\obj\Debug\net6.0\JamieWal.Data.csproj.AssemblyReference.cache
+C:\Users\Tinka\Documents\Jamie-Walkth\JamieWal.Data\obj\Debug\net6.0\JamieWal.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tinka\Documents\Jamie-Walkth\JamieWal.Data\obj\Debug\net6.0\JamieWal.Data.AssemblyInfoInputs.cache
+C:\Users\Tinka\Documents\Jamie-Walkth\JamieWal.Data\obj\Debug\net6.0\JamieWal.Data.AssemblyInfo.cs
+C:\Users\Tinka\Documents\Jamie-Walkth\JamieWal.Data\obj\Debug\net6.0\JamieWal.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tinka\Documents\Jamie-Walkth\JamieWal.Data\obj\Debug\net6.0\JamieWal.Data.dll
+C:\Users\Tinka\Documents\Jamie-Walkth\JamieWal.Data\obj\Debug\net6.0\ref\JamieWal.Data.dll
+C:\Users\Tinka\Documents\Jamie-Walkth\JamieWal.Data\obj\Debug\net6.0\JamieWal.Data.pdb

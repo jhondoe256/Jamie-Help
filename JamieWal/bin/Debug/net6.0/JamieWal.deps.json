@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JamieWal/1.0.0": {
+        "dependencies": {
+          "JamieWal.Data": "1.0.0"
+        },
+        "runtime": {
+          "JamieWal.dll": {}
+        }
+      },
+      "JamieWal.Data/1.0.0": {
+        "runtime": {
+          "JamieWal.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JamieWal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JamieWal.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

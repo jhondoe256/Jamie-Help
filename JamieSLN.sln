@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JamieWal.Data", "JamieWal.Data\JamieWal.Data.csproj", "{BDE7254D-D50F-4D26-8FFA-448FF6B30ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JamieWal.UI", "JamieWal.UI\JamieWal.UI.csproj", "{7D4DB0BC-E2FB-4FF2-874A-756973D6C310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE7254D-D50F-4D26-8FFA-448FF6B30ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE7254D-D50F-4D26-8FFA-448FF6B30ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE7254D-D50F-4D26-8FFA-448FF6B30ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE7254D-D50F-4D26-8FFA-448FF6B30ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4DB0BC-E2FB-4FF2-874A-756973D6C310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4DB0BC-E2FB-4FF2-874A-756973D6C310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4DB0BC-E2FB-4FF2-874A-756973D6C310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4DB0BC-E2FB-4FF2-874A-756973D6C310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
